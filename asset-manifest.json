@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/devabs-portfolio/static/js/main.7a7a8f60.js",
+    "static/js/787.312e0035.chunk.js": "/devabs-portfolio/static/js/787.312e0035.chunk.js",
+    "static/media/abhi2.webp": "/devabs-portfolio/static/media/abhi2.8777cc5397c4aea54789.webp",
+    "static/media/waves1.webp": "/devabs-portfolio/static/media/waves1.7e18dee0015c51a0207a.webp",
+    "static/media/iphone1.webp": "/devabs-portfolio/static/media/iphone1.d82c345fab384d4fc0c6.webp",
+    "static/media/reactPlayer.webp": "/devabs-portfolio/static/media/reactPlayer.fd61378884f5cdd5a353.webp",
+    "static/media/outdoors1.webp.jpg": "/devabs-portfolio/static/media/outdoors1.webp.61f20047e1dad3ad8797.jpg",
+    "index.html": "/devabs-portfolio/index.html",
+    "main.7a7a8f60.js.map": "/devabs-portfolio/static/js/main.7a7a8f60.js.map",
+    "787.312e0035.chunk.js.map": "/devabs-portfolio/static/js/787.312e0035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7a7a8f60.js"
+  ]
+}
